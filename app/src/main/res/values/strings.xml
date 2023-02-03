@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab4</string>
+    <string name="Launch_Profile" />
+    <string name="launch_profile">launch profile</string>
+    <string name="go_back">Go back</string>
+    <string name="exit_and_save">exit and save</string>
 </resources>
