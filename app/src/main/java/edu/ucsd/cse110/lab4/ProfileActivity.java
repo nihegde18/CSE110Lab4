@@ -19,7 +19,7 @@ public class ProfileActivity extends AppCompatActivity {
         goBackButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                onGoBackClicked();
+                saveProfile();onGoBackClicked();
             }
         });
     }
@@ -49,4 +49,8 @@ public class ProfileActivity extends AppCompatActivity {
     private void onGoBackClicked() {
         finish();
     }
+
+
+
+
 }

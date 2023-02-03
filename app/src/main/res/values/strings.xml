@@ -4,4 +4,6 @@
     <string name="launch_profile">launch profile</string>
     <string name="go_back">Go back</string>
     <string name="exit_and_save">exit and save</string>
+    <string name="show_my_profile">show my profile</string>
+    <string name="_0">0</string>
 </resources>
